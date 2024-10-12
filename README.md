@@ -1,6 +1,6 @@
 # Página Hello World
 
-Este repositório contém o projeto da minha página "Hello World", desenvolvido como parte da formação para professores em desenvolvimento web.
+Este repositório contém o projeto da minha página "Hello World", desenvolvido como parte da formação para professores em desenvolvimento web no Alura para escolas.
 
 ## Sobre o Projeto
 
