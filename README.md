@@ -12,7 +12,7 @@ Nesta página, utilizei as ferramentas e orientações da Alura para aprender a 
 - **Lógica de Programação**: Aplicação dos conceitos de lógica por meio do JavaScript.
 - **Implantação no GitHub**: Utilização do GitHub para gerenciar o projeto e facilitar a apresentação.
 
-[![Hello World](https://github.com/user-attachments/assets/e0630455-ad10-4fe4-8c95-357d49ea810e)](https://kauemonteiro09.github.io/alura-hello-world/)
+[![image](https://github.com/user-attachments/assets/f1f34d3c-fce0-4e6b-8d6d-7bb4068c3cff)](https://kauemonteiro09.github.io/alura-hello-world/)
 
 ## 🛠️ Tecnologias Utilizadas
 
