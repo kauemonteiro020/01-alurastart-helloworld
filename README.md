@@ -25,8 +25,7 @@ Nesta página, utilizei as ferramentas e orientações da Alura para aprender a 
 
 ## 🎓 Certificado
 
-![image](https://github.com/user-attachments/assets/924f39bd-615f-414c-9688-631d457d904e)
-[Certificado Alura](https://cursos.alura.com.br/user/rg602085520161ma/course/desenvolvimento-web-ferramentas-orientacoes-professores/certificate)
+[![image](https://github.com/user-attachments/assets/924f39bd-615f-414c-9688-631d457d904e)](https://cursos.alura.com.br/user/rg602085520161ma/course/desenvolvimento-web-ferramentas-orientacoes-professores/certificate)
 
 ## 🚀 Conclusão
 
